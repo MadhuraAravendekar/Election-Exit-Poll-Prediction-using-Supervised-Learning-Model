@@ -1,10 +1,10 @@
-##Business Problem Statement:-
+## Business Problem Statement:-
 
 You are hired by one of the leading news channels CNBE who wants to analyze recent elections. 
 This survey was conducted on 1525 voters with 9 variables. You have to build a model, to predict which party a voter will vote for on the basis of the given information, 
 to create an exit poll that will help in predicting overall win and seats covered by a particular party.
 
-##Data Dictionary 
+## Data Dictionary 
 1. vote: Party choice: Conservative or Labour
 2. 2. age: in years
 3. economic.cond.national: Assessment of current national economic conditions, 1 to 5.
@@ -16,7 +16,7 @@ to create an exit poll that will help in predicting overall win and seats covere
 9. gender: female or male.
 
 
-##Steps which was followed before traning Machine Learning Algorithms: 
+## Steps which was followed before traning Machine Learning Algorithms: 
 1. Uploading the data
 2. Exploratory Data Analysis
 3. Univariate and Bivariate Analysis
