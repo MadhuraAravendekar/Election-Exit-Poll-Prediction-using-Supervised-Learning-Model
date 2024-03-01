@@ -20,7 +20,7 @@ to create an exit poll that will help in predicting overall win and seats covere
 1. Uploading the data
 2. Exploratory Data Analysis
 3. Univariate and Bivariate Analysis
-4. Modelling scaling
+4. Feature scaling
 5. Train Test split
 6. Building various supervise learning algorithm:
      a.Logistict Regression and Linear discriminate Analysis
